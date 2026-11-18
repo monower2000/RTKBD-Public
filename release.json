@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "product": "RTKBD-Base",
+  "version": "1.2.166",
+  "firmware": "rtkbd-base-v1.2.166-github-auto.bin",
+  "firmwareUrl": "https://github.com/monower2000/RTKBD-Public/releases/download/v1.2.166/rtkbd-base-v1.2.166-github-auto.bin",
+  "firmwareSha256": "e14c531f2e607da1d1bcff176800652c964e2811a138eed405dd1a44975f1475",
+  "firmware_sha256": "e14c531f2e607da1d1bcff176800652c964e2811a138eed405dd1a44975f1475",
+  "flash_size": "4MB",
+  "ota": {"scope": "application-image", "boardIndependent": true}
+}
